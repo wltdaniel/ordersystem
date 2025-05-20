@@ -3,12 +3,9 @@
 ## Usage
 * Set OrderSystem.API as  a startup project
 * Run the project,this will open https://localhost:<port>/swagger/index.html,
-* For Tests  run  the following command in Powershell 
+* For Tests,  run  the following command in PowerShell 
 ```bash
 dotnet test
-
-```
-
 ```
 ## Approach
 * used Monolithic Clean Architecture approach, to eliminate  a  dependency nightmare, simplifies  deployment,t and
